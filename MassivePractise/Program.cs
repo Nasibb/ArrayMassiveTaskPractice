@@ -44,13 +44,21 @@ int[] num = { 130, 0, 1, 45, 85, 129 };
 //Console.WriteLine(num[2]);
 //Console.WriteLine(num[0]);
 
-//4. Butun massivleri ve indexleri ekranda eks eletdir.
-for (int i = 0; i < num.Length; i++)
-    Console.WriteLine(num[i]);
-Console.WriteLine(i);
+//4. Butun massivleri ve indexleri ekranda eks eletdir. *For - index mentiqi ile ishliyir.
+//for (int i = 0; i < num.Length; i++)
+//{
+//    Console.WriteLine(num[i]);
+//}
 
-//5.Indexleri goster
+//for (int i = 0; i < num.Length; i++)
+//{
+//    Console.WriteLine(i);
+//}
 
+//5. Massivin uzunluğun.
+//Console.WriteLine(num.Length);
+
+//6.Indexini goster
 #endregion
 
 
