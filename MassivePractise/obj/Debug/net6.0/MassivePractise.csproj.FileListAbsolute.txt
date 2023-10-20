@@ -1,0 +1,14 @@
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\bin\Debug\net6.0\MassivePractise.exe
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\bin\Debug\net6.0\MassivePractise.deps.json
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\bin\Debug\net6.0\MassivePractise.runtimeconfig.json
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\bin\Debug\net6.0\MassivePractise.dll
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\bin\Debug\net6.0\MassivePractise.pdb
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\obj\Debug\net6.0\MassivePractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\obj\Debug\net6.0\MassivePractise.AssemblyInfoInputs.cache
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\obj\Debug\net6.0\MassivePractise.AssemblyInfo.cs
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\obj\Debug\net6.0\MassivePractise.csproj.CoreCompileInputs.cache
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\obj\Debug\net6.0\MassivePractise.dll
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\obj\Debug\net6.0\refint\MassivePractise.dll
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\obj\Debug\net6.0\MassivePractise.pdb
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\obj\Debug\net6.0\MassivePractise.genruntimeconfig.cache
+C:\Users\nasib.ixtiyarli\Desktop\MassivePractise\MassivePractise\obj\Debug\net6.0\ref\MassivePractise.dll
